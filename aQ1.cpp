@@ -14,13 +14,9 @@ int main()
         cout<<"The number is positive"<<endl;
     }
     else if(n<0) {
-                cout<<"The number is negative "<<endl;
-    }
-    else{
-    cout<<"zero "<<endl;
+                cout<<"The is negative "<<endl;
 
     }
-
     
     return 0;
 }
